@@ -1,43 +1,38 @@
 <mat-sidenav-container fullscreen>
-  <mat-sidenav #smallscreen align="start">
-    <mat-toolbar color="primary" style="margin-bottom:-8px;">
-      <div style="padding-top: 10px;">
-        Menu
-      </div>
-    </mat-toolbar>
+	<mat-sidenav #smallscreen align="start">
+		<mat-toolbar color="primary">
+			<div class="stuff">Menu</div>
+		</mat-toolbar>
+		<mat-nav-list>
+			<mat-list-item *ngFor="let link of links">
+				<a href="{{link.href}}" matLine>
+					<i class="eh">{{link.icon}}</i> &nbsp; {{link.name}}
+				</a>
+			</mat-list-item>
+		</mat-nav-list>
+	</mat-sidenav>
 
-    <mat-nav-list>
-      <mat-list-item *ngFor="let link of links">
-        <a href="{{link.href}}" matLine><i class="eh">{{link.icon}}</i>{{link.name}}</a>
-      </mat-list-item>
-    </mat-nav-list>
-  </mat-sidenav>
-  <!-- Body -->
-  <div fxLayout="row">
-    <div class="branding">
-      <img src="../assets/images/electrichead-200.png"
-           alt="{{title}}"
-           routerLink="."
-           fxFlexAlign="end"
-      >
-    </div>
-    <mat-toolbar color="accent" fxLayoutAlign="end end">
+	<div fxLayout="row">
+		<div class="branding">
+			<img src="../assets/images/electrichead-200.png" alt="{{title}}" routerLink="." fxFlexAlign="end">
+		</div>
+		<mat-toolbar color="accent" fxLayoutAlign="end end">
 
-      <div fxShow="false" fxShow.gt-md>
-        <nav mat-tab-nav-bar>
-          <a mat-tab-link *ngFor="let link of links" routerLink="{{link.href}}" routerLinkActive="active">
-            <i class="eh">{{link.icon}}</i> &nbsp;&nbsp;{{link.name}}
-          </a>
-        </nav>
-      </div>
-      <div fxShow="false" fxShow.lt-md style="padding-bottom:8px;">
-        <button mat-mini-fab color="accent" (click)="smallscreen.toggle()">
-          <mat-icon>menu</mat-icon>
-        </button>
-      </div>
-    </mat-toolbar>
-  </div>
-    <div class="container">
-      <router-outlet></router-outlet>
-    </div>
+			<div fxShow="false" fxShow.gt-md>
+				<nav mat-tab-nav-bar>
+					<a mat-tab-link *ngFor="let link of links" routerLink="{{link.href}}" routerLinkActive="active">
+						<i class="eh">{{link.icon}}</i> &nbsp;&nbsp;{{link.name}}
+					</a>
+				</nav>
+			</div>
+			<div fxShow="false" fxShow.lt-md style="padding-bottom:8px;">
+				<button mat-mini-fab color="accent" (click)="smallscreen.toggle()">
+					<mat-icon>menu</mat-icon>
+				</button>
+			</div>
+		</mat-toolbar>
+	</div>
+	<div class="container">
+		<router-outlet></router-outlet>
+	</div>
 </mat-sidenav-container>

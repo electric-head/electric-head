@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b228338-df83-4356-bc26-5e40f251f34d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/code-comments.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/withe.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/app/pages/services/services.component.scss" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" afterPath="$PROJECT_DIR$/src/app/app.component.html" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.scss" afterPath="$PROJECT_DIR$/src/app/app.component.scss" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1457">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <element signature="e#296#302#0" expanded="true" />
+                <element signature="e#852#858#0" expanded="true" />
+                <element signature="e#858#864#0" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#mat-toolbar#0;n#div#0;n#mat-sidenav-container#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/app.component.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/app/pages/services/services.component.scss" />
+        <option value="$PROJECT_DIR$/src/app/app.component.scss" />
+        <option value="$PROJECT_DIR$/src/app/app.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ColorIdeProjectViewPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ColorIdeProjectViewPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="electric-head" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-head" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-head" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-head" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-head" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-head" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-head" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-head" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="electric-head" type="b2602c69:ProjectViewProjectNode" />
+              <item name="electric-head" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.10.3" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="$USER_HOME$/AppData/Roaming/nvm/v6.10.3/node_modules/sass-lint" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Yarn/cache/v1/npm-tslint-5.3.2-e56459fb095a7307f103b84052174f5e3bbef6ed/bin/tslint" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="C:\Users\withe\WebstormProjects\electric-head\node_modules\tslint" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b228338-df83-4356-bc26-5e40f251f34d" name="Default" comment="" />
+      <created>1513536766652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513536766652</updated>
+      <workItem from="1513536770429" duration="1131000" />
+      <workItem from="1513542307026" duration="5678000" />
+      <workItem from="1513551942724" duration="309000" />
+    </task>
+    <task id="LOCAL-00001" summary="Upgrading dependencies">
+      <created>1513543068005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513543068005</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added .angular-cli (skipped by Linux during commit)">
+      <created>1513544971880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513544971880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7118000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Code comment" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/Reflect.js" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/Reflect.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/Reflect.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/index.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/index.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-hasmetadata.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-getmetadata.js" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-definemetadata.js" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-decorate.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-getmetadata.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-hasownmetadata.js" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-metadata.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-definemetadata.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-getownmetadata.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-hasownmetadata.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-deletemetadata.js" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-decorate.js" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-metadata.js" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-deletemetadata.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-hasmetadata.js" />
+        <option value="$PROJECT_DIR$/node_modules/reflect-metadata/test/reflect-getownmetadata.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/keys.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/keys.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/to-array.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/defaults.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/to-array.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/index.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/index.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/defaults.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/keys.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/defaults.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/object/to-array.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/max.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/min.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/mean.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/min.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/index.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/group-by.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/sum.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/max.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/sum.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/mean.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/group-by.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/max.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/min.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/group-by.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/index.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/mean.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/aggregate/sum.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/ceil.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/degrees.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/bytes.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/index.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/index.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/sqrt.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/radians.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/random.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/radians.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/pow.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/round.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/ceil.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/pow.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/sqrt.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/pow.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/random.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/radians.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/degrees.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/round.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/ceil.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/floor.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/floor.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/random.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/floor.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/bytes.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/bytes.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/round.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/sqrt.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/math/degrees.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/utils/utils.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/utils/utils.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/utils/utils.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/drop.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/flatten.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/some.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/without.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/intersection.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/some.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/empty.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/union.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/range.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/take-while.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/first-or-default.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/last.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/without.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/head.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/where.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/deep.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/deep.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/take-while.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/join.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/intersection.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/every.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/without.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/take.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/take-until.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/initial.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/union.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/order-by.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/index.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/count.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/first-or-default.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/chunk.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/last.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/pluck.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/every.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/last.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/shuffle.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/union.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/take.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/shuffle.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/flatten.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/range.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/order-by.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/chunk.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/tail.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/where.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/initial.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/order-by.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/where.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/chunk.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/map.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/empty.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/take-until.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/reverse.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/range.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/map.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/reverse.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/first-or-default.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/deep.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/uniq.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/shuffle.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/drop.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/take-while.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/reverse.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/some.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/count.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/map.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/tail.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/flatten.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/join.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/empty.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/tail.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/uniq.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/count.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/join.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/head.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/head.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/uniq.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/pluck.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/take.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/initial.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/pluck.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/drop.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/take-until.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/index.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/every.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/array/intersection.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/wrap.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/latinize.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/replace.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/decode-uri.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/template.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/pad.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/index.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/strip-tags.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/split.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/template.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/trim.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/capitalize.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/with.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/strip-tags.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/truncate.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/latinize.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/capitalize.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/upperfirst.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/with.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/encode-uri-component.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/with.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/newlines.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/truncate.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/reverse-str.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/pad.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/slugify.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/right-pad.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/repeat.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/newlines.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/right-pad.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/encode-uri-component.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/match.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/repeat.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/decode-uri-component.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/decode-uri.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/test.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/reverse-str.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/template.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/capitalize.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/left-pad.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/replace.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/replace.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/decode-uri-component.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/truncate.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/slugify.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/slugify.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/encode-uri.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/encode-uri-component.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/left-pad.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/newlines.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/repeat.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/upperfirst.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/left-pad.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/reverse-str.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/decode-uri-component.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/trim.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/encode-uri.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/trim.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/test.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/pad.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/split.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/right-pad.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/upperfirst.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/wrap.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/index.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/match.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/split.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/test.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/match.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/strip-tags.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/encode-uri.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/decode-uri.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/wrap.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/string/latinize.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/boolean/types.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/boolean/conditions.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/boolean/conditions.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/boolean/conditions.pipe.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/boolean/types.pipe.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/boolean/index.js" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/boolean/types.pipe.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/boolean/index.js.map" />
+        <option value="$PROJECT_DIR$/node_modules/angular-pipes/src/boolean/index.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upgrading dependencies" />
+    <MESSAGE value="Added .angular-cli (skipped by Linux during commit)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added .angular-cli (skipped by Linux during commit)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#296#302#0" expanded="true" />
+            <element signature="e#852#858#0" expanded="true" />
+            <element signature="e#858#864#0" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#mat-toolbar#0;n#div#0;n#mat-sidenav-container#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="63" column="25" lean-forward="false" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/services/services.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/services/services.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/home.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1457">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#296#302#0" expanded="true" />
+            <element signature="e#852#858#0" expanded="true" />
+            <element signature="e#858#864#0" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#mat-toolbar#0;n#div#0;n#mat-sidenav-container#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
