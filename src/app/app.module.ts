@@ -20,6 +20,7 @@ import { ServicesComponent } from './pages/services/services.component';
 import { AboutComponent } from './pages/about.component';
 import { HomeComponent } from './pages/home.component';
 import { NoContentComponent } from './pages/no-content.component';
+import { SoftwareComponent } from './pages/services/software.component';
 
 @NgModule({
   declarations: [
@@ -29,6 +30,7 @@ import { NoContentComponent } from './pages/no-content.component';
     AboutComponent,
     HomeComponent,
     NoContentComponent,
+    SoftwareComponent,
   ],
   imports: [
     BrowserModule,
