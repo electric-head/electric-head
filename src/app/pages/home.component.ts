@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
         </mat-card-header>
         <mat-card-content class="mat-content">
            <p>
-             Welcome to the Electric-Head! We specialized in web development &amp; design, but also provide computer repair services and,
+             Welcome to the Electric-Head! We specialize in web development &amp; design, but also provide computer repair services and,
               to some extent technical support for PCs. Also, we can provide services for graphics design. For more information, visit our
               <a routerLink="services">Services</a> page!
            </p>
