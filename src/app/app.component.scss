@@ -1,12 +1,9 @@
 @import '../theme';
-
 @include mat-sidenav-theme($theme);
 @include mat-menu-theme($theme);
 @include mat-list-theme($theme);
 @include mat-tabs-theme($theme);
 @include mat-toolbar-theme($theme);
-
-
 .mat-toolbar {
   margin-bottom: -8px;
 }
@@ -17,9 +14,10 @@
 
 nav[mat-tab-nav-bar] {
   a.mat-tab-link {
-      color: $text-color;
+    color: $text-color;
   }
 }
+
 .mat-list,
 .mat-nav-list,
 .mat-selection-list {
@@ -31,12 +29,10 @@ nav[mat-tab-nav-bar] {
     padding-bottom: 0;
     padding-top: 0;
     text-decoration: none;
-
     &:hover {
       background: mat-color($accent);
-      color: $link-color;
+      color: mat-color($mat-amber, 800);
       text-decoration: none;
-
       .eh {
         color: $text-color;
       }
@@ -50,17 +46,14 @@ nav[mat-tab-nav-bar] {
   margin-left: 40px;
   margin-top: 12px;
   position: fixed;
-
   &::-moz-focus-inner {
     border: 0;
     padding: 0;
     text-decoration: none;
   }
-
   &:focus {
     outline: none;
   }
-
   &:active {
     border: 0;
     padding: 0;
