@@ -1,0 +1,82 @@
+@import '~@angular/material/theming';
+@import '~@covalent/core/theming/all-theme';
+@import '~@covalent/highlight/highlight-theme';
+
+@include mat-core;
+
+$primary:  mat-palette($mat-grey, 600);
+$accent:   mat-palette($mat-deep-purple, 700);
+$warn:     mat-palette($mat-red, 600);
+$theme:    mat-light-theme($primary, $accent, $warn);
+
+@include angular-material-theme($theme);
+@include covalent-theme($theme);
+@include covalent-highlight-theme();
+
+$mat-light-theme-background: map-get($theme, background);
+$mat-light-theme-foreground: map-get($theme, foreground);
+
+$body-bg:     mat-color($primary, 700);
+$text-color:  mat-color($primary, 100);
+$global-bg:   mat-color($primary, 900);
+$link-color:  mat-color($accent, 700);
+$link-hover:  mat-color($primary, 900);
+$emphasis:    mat-color($primary, 700);
+
+// Typography
+$eh-typography: mat-typography-config(
+  $font-family: 'Roboto, monospace',
+  $headline: mat-typography-level(32px, 48px, 800),
+  $body-1: mat-typography-level(1em, 1.5rem, 500)
+);
+
+$font-size:       1em;
+$xs-font-size:    .65rem;
+$sm-font-size:    .75rem;
+$md-font-size:    1.1rem;
+$lg-font-size:    1.5rem;
+$xl-font-size:    2rem;
+
+// Iconography
+$icon-size:       $font-size;
+$icon-xs-size:    .6rem;
+$icon-sm-size:    $sm-font-size;
+$icon-md-size:    .9rem;
+$icon-lg-size:    1.2rem;
+$icon-xl-size:    1.8rem;
+$icon-xxl-size:   2.5rem;
+
+$icon-color:            mat-color($primary, 400);
+$icon-color-inverse:    $text-color;
+$icon-hover:            $text-color;
+$icon-hover-inverse:    mat-color($primary, 400);
+
+// Measure & rule
+$margin:        20px;
+$margin-sm:     10px;
+$margin-md:     40px;
+$margin-lg:     70px;
+$margin-xl:     140px;
+
+$gutter:        30px;
+$gutter-sm:     15px;
+$gutter-md:     40px;
+$gutter-lg:     70px;
+
+// Alerts
+$alert-margin-vert:   $margin;
+$alert-padding:       15px;
+$alert-padding-right: $alert-padding + 14px;
+$alert-bg-color:      $global-bg;
+$alert-color:         mat-color($warn);
+$alert-border:        1px solid lighten($alert-color, 5%);
+
+// Other
+$base-line-height:    1.5;
+$border:              1px solid mat-color($primary, A200);
+$border-radius:       3px;
+
+.subtitle {
+  font: $md-font-size, 500;
+  font-style: italic;
+}

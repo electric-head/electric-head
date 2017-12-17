@@ -1,0 +1,22 @@
+@import '../../theme';
+@include mat-card-theme($theme);
+
+a {
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.mat-card {
+  background-color: lighten($body-bg, 20%);
+  border: 3px solid mat-color($primary, 200);
+  color: $text-color;
+  margin: auto;
+  max-width: 600px;
+  padding: 15px;
+
+  mat-card-title {
+    font-size: $xl-font-size;
+    font-weight: bold;
+  }
+}

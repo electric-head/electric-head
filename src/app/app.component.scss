@@ -1,0 +1,103 @@
+@import '../theme';
+
+@include mat-sidenav-theme($theme);
+@include mat-menu-theme($theme);
+@include mat-list-theme($theme);
+@include mat-tabs-theme($theme);
+
+nav[mat-tab-nav-bar] {
+  a.mat-tab-link {
+      color: $text-color;
+  }
+}
+.mat-list,
+.mat-nav-list,
+.mat-selection-list {
+  .mat-list-item {
+    color: $link-color;
+    font-size: $md-font-size;
+    margin-bottom: -10px;
+    margin-top: -10px;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-decoration: none;
+
+    &:hover {
+      background: mat-color($accent);
+      color: $link-color;
+      text-decoration: none;
+
+      .eh {
+        color: $link-color;
+      }
+    }
+  }
+}
+
+.branding {
+  cursor: pointer;
+  display: block;
+  margin-left: 40px;
+  margin-top: 12px;
+  position: fixed;
+
+  &::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  &:active {
+    border: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+}
+
+.mat-nav-list {
+  .mat-list-item {
+    color: mat-color($accent, 900);
+
+    a {
+      font-size: $sm-font-size;
+    }
+
+    &:hover {
+      background-color: mat-color($primary, 400);
+      color: $link-color;
+
+      .eh {
+        color: $link-color;
+      }
+    }
+
+    .eh {
+      color: mat-color($primary, 400);
+      font-size: .85rem;
+      padding-right: 5px;
+    }
+  }
+}
+
+.mat-sidenav {
+  background-color: $global-bg;
+  width: 180px;
+}
+
+.mat-sidenav-container {
+  background-color: transparent;
+}
+
+a .mat-tab-link {
+  color: $text-color;
+}
+
+.more {
+  background-color: mat-color($primary);
+  color: $text-color;
+  font-size: $md-font-size;
+}

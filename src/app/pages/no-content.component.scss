@@ -1,0 +1,36 @@
+@import '../../theme';
+@include mat-card-theme($theme);
+@include mat-button-theme($theme);
+
+button[mat-button] {
+  background: mat-color($accent);
+  color: $text-color;
+}
+.mat-card {
+  background-color: lighten($body-bg, 20%);
+  color: $text-color;
+  margin: auto;
+  padding-bottom: 14px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 14px;
+}
+
+mat-card-title {
+  font-size: $xl-font-size;
+  font-weight: bold;
+}
+
+.mat-card-subtitle {
+  font-size: $md-font-size;
+  font-style: italic;
+  font-weight: 600;
+}
+
+.mat-card-actions {
+  border-bottom: 1px solid mat-color($primary, 200);
+  border-left: 1px solid mat-color($primary, 200);
+  border-right: 1px solid mat-color($primary, 200);
+  margin-left: -15px;
+  margin-right: -15px;
+}
