@@ -17,7 +17,7 @@ import { Component } from '@angular/core';
            <p>
              We proudly support the open source community and try our hardest to use only open-sourced software.
              We believe this helps keep <i>your</i> cost as minimal as possible. For a list of software we are currently
-             using, please click <a routerLink="sofware">here</a>.
+             using, please click <a routerLink="software">here</a>.
            </p>
         </mat-card-content>
     </mat-card>
