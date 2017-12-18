@@ -1,13 +1,20 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'ehp-software',
+  selector: 'eh-software',
   template: `
-    <p>
-      software works!
-    </p>
+    <mat-card>
+        <mat-card-header>
+            <mat-card-title>
+                <h1 class="mat-display-1">Software we utilize</h1>
+            </mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+            Text content
+        </mat-card-content>
+    </mat-card>
   `,
-  styles: []
+  styleUrls: ['./software.component.scss']
 })
 export class SoftwareComponent implements OnInit {
 

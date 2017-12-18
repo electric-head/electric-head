@@ -1,0 +1,8 @@
+@import '../../../theme';
+@include mat-card-theme($theme);
+@include mat-list-theme($theme);
+
+.mat-card {
+  background: $global-bg;
+  color: $text-color;
+}

@@ -4,7 +4,7 @@
 			<div class="stuff">Menu</div>
 		</mat-toolbar>
 		<mat-nav-list>
-			<mat-list-item *ngFor="let link of links">
+			<mat-list-item *ngFor="let link of links" (click)="smallscreen.toggle()">
 				<a routerLink="{{link.href}}" matLine>
 					<i class="eh">{{link.icon}}</i> &nbsp; {{link.name}}
 				</a>
