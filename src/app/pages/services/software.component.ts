@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'eh-software',
@@ -16,11 +16,5 @@ import { Component, OnInit } from '@angular/core';
   `,
   styleUrls: ['./software.component.scss']
 })
-export class SoftwareComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit() {
-  }
-
+export class SoftwareComponent {
 }
